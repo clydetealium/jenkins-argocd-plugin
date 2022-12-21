@@ -41,7 +41,7 @@
         <swagger.version>3.0.36</swagger.version>
         <jackson-datatype-threetenbp.version>2.12.5</jackson-datatype-threetenbp.version>
         <gson-fire.version>1.8.5</gson-fire.version>
-        <threetenbp.version>1.5.2</threetenbp.version>
+        <threetenbp.version>1.6.5</threetenbp.version>
         <gson.version>2.9.0</gson.version>
         <squareup.version>2.7.5</squareup.version>
     </properties>
